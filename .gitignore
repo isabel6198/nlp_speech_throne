@@ -1,0 +1,15 @@
+
+
+# dossier environement
+env/
+
+# borrador
+draft.md
+
+
+# fichiers mac
+.DS_Store
+
+
+# borrador word 
+nlp_projet.docx
