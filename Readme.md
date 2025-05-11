@@ -40,3 +40,20 @@ Monarque         | Règne          | Période à filtrer dans `df['Speech_Year']
 | **Edward VIII**  | 1936 (abdiqué) | aucun discours (abdiqué avant le discours) |
 | **George VI**    | 1936 – 1952    | 1937 – 1951                                |
 | **Elizabeth II** | 1952 – 2022    | 1952 – 2012 *(fin de ton corpus)*          |
+
+
+
+
+## comment choisir le bon nombre 
+
+Il est possible de se fier à des indicateurs de cohérence et de perplexité afin de cibler le nombre minimal de thématiques avec la meilleure cohérence possible
+
+https://gardeso.com/wp-content/uploads/2019/06/Berube_GARDESO2019.pdf
+
+
+Qu’est-ce que la perplexité?
+
+La perplexité est une mesure de la façon dont le modèle thématique prédit des données nouvelles ou invisibles. Il reflète la capacité de généralisation du modèle. Un faible score de perplexité signifie que le modèle est confiant et précis dans ses prédictions. Un score de perplexité élevé signifie que le modèle est incertain et inexact dans ses prédictions.
+
+https://www.linkedin.com/advice/1/how-do-you-evaluate-coherence-perplexity?lang=fr&originalSubdomain=fr 
+
