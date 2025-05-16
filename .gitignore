@@ -1,4 +1,14 @@
 
+# premier jeu de données sans les parties 
+data/Speech_Throne_1911_2012_2.xlsx 
+
+
+# notebook test
+notebook/00_cours_exploration.ipynb
+notebook/03_speech_throne.ipynb
+
+
+images/
 
 # dossier environement
 env/
